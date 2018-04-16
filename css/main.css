@@ -1,0 +1,11 @@
+#welcome {
+    width: 320px;
+    height: 480px;
+    margin: auto;
+    background: no-repeat center/60% url(../resources/skull-and-bones.svg);
+    border: solid 1px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 10%;
+    box-sizing: border-box;
+}
